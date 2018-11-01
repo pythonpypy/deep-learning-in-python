@@ -1,2 +1,3 @@
-# deep-learning
-
+# deep-learning.
+(code),
+(visulizing what CNN learns)
